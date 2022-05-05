@@ -1,1 +1,4 @@
-# GameC- Game with player and characters on a board
+# GameC- 
+
+C++ game with player and characters on a board
+
